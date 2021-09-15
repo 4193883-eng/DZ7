@@ -1,0 +1,29 @@
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.fir{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+.sec{
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+}
+.thr{
+    background-color: cadetblue;
+    width: 200px;
+    height: 200px;
+}
+.frth{
+    background-color: coral;
+    width: 200px;
+    height: 200px;
+}
+.fvth{
+    background-color: darkorchid;
+    width: 200px;
+    height: 200px;
+}
